@@ -60,7 +60,8 @@ body{
 {
     position: absolute;
     // width: 100vmax;
-    width: 100%;
+    width: auto;
+    max-width: 1440px;
     // width: max-content;
     // max-width: 100%;
     // height: 100%;
